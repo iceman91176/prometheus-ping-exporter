@@ -1,6 +1,6 @@
 [package]
 name = "ping-exporter"
-version = "0.3.1"
+version = "0.3.2"
 authors = ["Fedor Gogolev <knsd@knsd.net>"]
 publish = false
 
